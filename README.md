@@ -1,2 +1,0 @@
-# ppds
-My awesome repository
